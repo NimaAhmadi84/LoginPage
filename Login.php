@@ -12,7 +12,7 @@
     <section class="login">
         <h1 class="login__title">Login Page</h1>
 
-        <form action="" method="post" class="login__form">
+        <form action="Action__Login.php" method="post" class="login__form">
             <label for="username">Username</label>
             <input id="username" class="login__input" type="text" name="username" placeholder="Enter your name"
                    required>
